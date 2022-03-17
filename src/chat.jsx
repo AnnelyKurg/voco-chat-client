@@ -37,7 +37,7 @@ function Chat() {
             </div>
 
             <Stack direction="horizontal" gap={4}>
-                <Form.Control className="me-auto" placeholder="Lorem Ipsum..." />
+                <Form.Control className="me-auto" placeholder="Write here..." />
 
             </Stack>
 
